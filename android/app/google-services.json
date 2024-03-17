@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "667102234839",
+    "project_id": "catto-4d4de",
+    "storage_bucket": "catto-4d4de.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:667102234839:android:157403a87f7acebcff4892",
+        "android_client_info": {
+          "package_name": "de.hsfulda.android_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "667102234839-dqvfcapjc0242ar660g8k5b2nt97j860.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyWGPGxDdmm5gwOMXhXAnsBPD-4BjslKA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "667102234839-dqvfcapjc0242ar660g8k5b2nt97j860.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
